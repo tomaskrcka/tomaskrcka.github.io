@@ -4,7 +4,17 @@ subtitle: "My projects and experiences"
 url: "https://tomaskrcka.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
+email: tomas.krcka@gmail.com
 github_username:  tomaskrcka
+social:
+  - title: email
+    url: mailto:tomas.krcka@gmail.com
+  - title: twitter
+    url: https://twitter.com/tomaskrcka
+  - title: github
+    url: https://github.com/tomaskrcka
+  - title: linkedin
+    url: https://www.linkedin.com/in/tomas-krcka
 # Build Settings
 sass:
   sass_dir: _sass
