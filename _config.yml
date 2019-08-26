@@ -1,0 +1,13 @@
+# Site settings
+title: Tomas Krcka
+subtitle: "My projects and experiences"
+url: "https://tomaskrcka.github.io" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/"
+github_username:  tomaskrcka
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
