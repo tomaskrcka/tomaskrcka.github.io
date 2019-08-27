@@ -26,4 +26,3 @@ sass:
 theme: minima
 kramdown:
   input: GFM
-theme: jekyll-theme-midnight
