@@ -2,6 +2,3 @@
 layout: default
 title: Tomas Krcka (SW developer)
 ---
-<div id="home">
-    <h1>About me</h1>
-</div>

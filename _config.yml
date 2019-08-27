@@ -1,6 +1,10 @@
 # Site settings
 title: Tomas Krcka
 subtitle: "My projects and experiences"
+description: >- # this means to ignore newlines until "baseurl:"
+  Tomas Krcka personal web page. Informations about my experiences and projects
+  I was and have been working on. Most of the projects are related to IoT, Industry 4.0 or an automotive
+  industry.
 url: "https://tomaskrcka.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
@@ -18,6 +22,7 @@ social:
 # Build Settings
 sass:
   sass_dir: _sass
-include: ['_pages']
+# include: ['_pages']
+theme: minima
 kramdown:
   input: GFM
