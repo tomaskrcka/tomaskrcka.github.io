@@ -27,4 +27,4 @@ sass:
 kramdown:
   input: GFM
 
-theme: jekyll-theme-slate
+markdown: kramdown
