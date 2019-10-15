@@ -26,3 +26,5 @@ sass:
 # theme: jekyll-theme-minimal
 kramdown:
   input: GFM
+
+theme: jekyll-theme-slate
