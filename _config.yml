@@ -23,6 +23,6 @@ social:
 sass:
   sass_dir: _sass
 # include: ['_pages']
-theme: minima
+theme: jekyll-theme-dinky
 kramdown:
   input: GFM
